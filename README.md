@@ -108,16 +108,17 @@ Here are some examples from the dataset for each tea leaf class:
 
 | Class Name | Sample Image |
 |------------|--------------|
-| Algal_Leaf_Rust | ![img_7498](https://github.com/user-attachments/assets/edbf2af9-6d28-4e62-8844-fcbd4a3fab7d)
+| Algal_Leaf_Rust | ![img_7498](https://github.com/user-attachments/assets/edbf2af9-6d28-4e62-8844-fcbd4a3fab7d) |
+| Bug_Eaten | ![img_9062](https://github.com/user-attachments/assets/dd86e415-e0a8-431e-b427-728be6e1baa7) |
+| Final Labelling RIPON | ![Final Labelling RIPON](https://github.com/user-attachments/assets/3bceecbb-022f-46ab-8181-610d5d21c689) |
+| Healthy_Leaf | ![img_3](https://github.com/user-attachments/assets/32110469-8b2a-4e53-bf66-466b37730818) |
+| Labelled Dataset RIPON | ![Labelled Dataset RIPON](https://github.com/user-attachments/assets/c24d895d-c01f-4060-b911-f3b8d574d6d8) |
+| Leaf_BlightBrown_BLight_No_Ring_3 | ![img_1378](https://github.com/user-attachments/assets/6a222952-f2c5-4390-93e8-6785c03d3ed4) |
+| Leaf_Spot_Diesase_Ring_Present | ![img_6306](https://github.com/user-attachments/assets/2f048700-5841-4ff0-bb36-720a4fe1d34c) |
+| Nutrient_Deficiency | ![img_9950](https://github.com/user-attachments/assets/67725afb-0a53-43db-ba56-761b9dd79ab9) |
+| Red_Spider_Mite | ![img_4394](https://github.com/user-attachments/assets/a7a99ee1-f910-43d0-baab-d5a4618bcf47) |
+| Tea_Mosqueto_Bug_Infected | ![img_10529](https://github.com/user-attachments/assets/f5d05714-79cb-4e71-877a-aff318736c6d) |
 
-| Bug_Eaten | ![img_9062](https://github.com/user-attachments/assets/dd86e415-e0a8-431e-b427-728be6e1baa7)
-| Final Labelling RIPON | <img width="670" height="604" alt="image" src="https://github.com/user-attachments/assets/3bceecbb-022f-46ab-8181-610d5d21c689" />
-| Healthy_Leaf | ![img_3](https://github.com/user-attachments/assets/32110469-8b2a-4e53-bf66-466b37730818)
-| Labelled Dataset RIPON |<img width="652" height="588" alt="image" src="https://github.com/user-attachments/assets/c24d895d-c01f-4060-b911-f3b8d574d6d8" />
-| Leaf_BlightBrown_BLight_No_Ring_3 |![img_1378](https://github.com/user-attachments/assets/6a222952-f2c5-4390-93e8-6785c03d3ed4)
-| Leaf_Spot_Diesase_Ring_Present | ![img_6306](https://github.com/user-attachments/assets/2f048700-5841-4ff0-bb36-720a4fe1d34c)
-| Nutrient_Deficiency | ![img_9950](https://github.com/user-attachments/assets/67725afb-0a53-43db-ba56-761b9dd79ab9)
-| Red_Spider_Mite | ![img_4394](https://github.com/user-attachments/assets/a7a99ee1-f910-43d0-baab-d5a4618bcf47)
-| Tea_Mosqueto_Bug_Infected | ![img_10529](https://github.com/user-attachments/assets/f5d05714-79cb-4e71-877a-aff318736c6d)
 > These images provide a quick visual understanding of the dataset used for training the models.
+
 
